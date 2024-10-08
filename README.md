@@ -1,5 +1,12 @@
 # 💫 About Me:
 👋 Hi, I’m @lenninCollante<br>🚀 Enthusiast of emerging technologies.<br>💻 I contribute to open-source projects and personal-interest initiatives.<br>📬 I don’t usually use conventional social media, so the best way to contact me is through Gmail, GitHub or Linkedln.<br>📚 I enjoy reading about a variety of topics that aren't necessarily related, and 🏞️ I appreciate a lifestyle outside the city.<br><br>
+<br><br><br>
+
+languages:<br><br>
+
+🇪🇸 Spanish<br>
+🇺🇸 English<br>
+🇵🇹 Portuguese
 
 
 ## 🌐 Socials:
