@@ -1,4 +1,4 @@
-# 🐦‍🔥👤🌀 About Me:
+# 🌀 About Me:
 Hi, I'm Lennin, software analyst and developer specialized in back-end development. <br>Here a little bit about me:<br><br>🔭 I am currently working as a Srum Master and full-stack developer.<br>🌱 Current studies: In the process of obtaining certification from IBM, Meta and google.<br>📬 Contact: You can contact me via Gmail, GitHub, or LinkedIn<br>🌍 Languages: Spanish, English and Portuguese.
 
 
