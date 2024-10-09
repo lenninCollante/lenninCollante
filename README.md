@@ -3,7 +3,7 @@ I'm Lennin Collante, a passionate backend developer with a keen interest in emer
 
 - 🚀 **Tech Enthusiast:** I’m constantly exploring new frameworks, languages, and tools that push the boundaries of what's possible.
 - 🛠️ **Open-source Contributor:** I contribute to open-source projects and build personal projects that align with my interests.
-- 📬 **Contact:** You can reach me via **[Gmail](mailto:durangolennin@gmail.com)**, **GitHub**, or **[LinkedIn](https://www.linkedin.com/in/lennin-collante-6b9aa132a/)**.
+- 📬 **Contact:** You can reach me via **[Gmail](durangolennin@gmail.com)**, **GitHub**, or **[LinkedIn](https://www.linkedin.com/in/lennin-collante-6b9aa132a/)**.
 - 🌍 **Languages:** I am fluent in **Spanish**, **English**, and **Portuguese**.
 - 🌱 **Outside of Code:** I enjoy reading about a wide variety of topics and appreciate nature, often seeking inspiration away from city life.
 
