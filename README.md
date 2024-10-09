@@ -1,12 +1,10 @@
 # 🧑🏻‍💻 About Me | Sobre mí:
-I'm Lennin Collante, a passionate backend developer with a keen interest in emerging technologies and problem-solving. Here's a bit more about me:
+Hi, I'm Lennin, software analyst and developer specialized in back-end development. Here a little bit about me:
 
-- 🚀 **Tech Enthusiast:** I’m constantly exploring new frameworks, languages, and tools that push the boundaries of what's possible.
-- 🛠️ **Open-source Contributor:** I contribute to open-source projects and build personal projects that align with my interests.
-- 📬 **Contact:** You can reach me via **[Gmail](mailto:durangolennin@gmail.com)**, **GitHub**, or **[LinkedIn](https://www.linkedin.com/in/lennin-collante-6b9aa132a/)**.
-- 🌍 **Languages:** I am fluent in **Spanish**, **English**, and **Portuguese**.
-- 🌱 **Outside of Code:** I enjoy reading about a wide variety of topics and appreciate nature, often seeking inspiration away from city life.
-
+- 🔭 I am currently working as a Srum Master and full-stack developer.
+- 🌱 **Current studies:** In the process of obtaining certification from IBM, Meta and google.
+- 📬 **Contact:** You can contact me via **[Gmail](mailto:durangolennin@gmail.com)**, **GitHub**, or **[LinkedIn](https://www.linkedin.com/in/lennin-collante-6b9aa132a/)**
+- 🌍 **Languages:** **Spanish**, **English** and **Portuguese**.
 ---
 
 ## 💻 Tech Stack:
@@ -31,5 +29,3 @@ Here are some of the tools and technologies I use:
 [![](https://visitcount.itsvg.in/api?id=lenninCollante&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ---
-
-This README was proudly created with GPRM ( https://gprm.itsvg.in )
