@@ -1,4 +1,4 @@
-# 👋 About Me:
+# 🚀 About Me | Sobre mí:
 I'm Lennin Collante, a passionate backend developer with a keen interest in emerging technologies and problem-solving. Here's a bit more about me:
 
 - 🚀 **Tech Enthusiast:** I’m constantly exploring new frameworks, languages, and tools that push the boundaries of what's possible.
